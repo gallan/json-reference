@@ -1,0 +1,23 @@
+{
+  "donationItemsData":[
+    {
+      "id": 1,
+      "title": "Ikea Chairs",
+      "image": "images/ikeachairs.jpg",
+      "category": "Seating",
+      "description": "35 chairs from IKEA, purchased 70 years ago"
+    }, {
+      "id": 2,
+      "title": "High tables",
+      "image": "images/hightables.jpg",
+      "category": "Tables",
+      "description": "23 high tables, good for stand working as well."
+    }, {
+      "id": 3,
+      "title": "Lamps",
+      "image": "images/lamps.jpg",
+      "category": "Lighting",
+      "description": "10 Standing lamps with working bulbs."
+    }
+  ]
+}
