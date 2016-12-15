@@ -18,6 +18,12 @@
       "image": "images/lamps.jpg",
       "category": "Lighting",
       "description": "10 Standing lamps with working bulbs."
+    }, {
+      "id": 4,
+      "title": "Big Lamps",
+      "image": "images/lamps.jpg",
+      "category": "Lighting",
+      "description": "40 Standing lamps with working bulbs."
     }
   ]
 }
