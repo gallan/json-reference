@@ -2,28 +2,22 @@
   "donationItemsData":[
     {
       "id": 1,
-      "title": "Ikea Chairs Tall",
-      "image": "images/ikeachairs.jpg",
+      "title": "Rolling Chairs",
+      "image": "assets/test-images/camera-photo.jpg",
       "category": "Seating",
-      "description": "500 chairs from IKEA, purchased 70 years ago"
+      "description": "10 Chairs in good working order."
     }, {
       "id": 2,
-      "title": "High tables",
-      "image": "images/hightables.jpg",
+      "title": "Conference table",
+      "image": "assets/test-images/conference-table.jpg",
       "category": "Tables",
-      "description": "23 high tables, good for stand working as well."
+      "description": "Large conference room table, approximately 9 ft x 3 ft in size."
     }, {
       "id": 3,
-      "title": "Lamps",
-      "image": "images/lamps.jpg",
-      "category": "Lighting",
-      "description": "10 Standing lamps with working bulbs."
-    }, {
-      "id": 4,
-      "title": "Big Lamps",
-      "image": "images/lamps.jpg",
-      "category": "Lighting",
-      "description": "40 Standing lamps with working bulbs."
+      "title": "Stacking Chairs",
+      "image": "assets/test-images/stacking-chairs.jpg",
+      "category": "Seating",
+      "description": "15 sets of 3 available"
     }
   ]
 }
